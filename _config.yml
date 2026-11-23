@@ -1,0 +1,11 @@
+title: karate Wadō-ryū beginners
+description: A starter vocabulary for karate Wadō-ryū beginners!
+theme: just-the-docs
+
+url: https://chaoscosdev.github.io/karate-wado-kb/
+
+# aux_links:
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+plugins:
+  - jekyll-default-layout
