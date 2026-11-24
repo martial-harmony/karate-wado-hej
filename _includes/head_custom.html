@@ -1,1 +1,9 @@
+<script>
+  /* apply saved text size before first paint (prevents a size flash) */
+  try {
+    var fs = localStorage.getItem('fs-level');
+    if (fs) document.documentElement.setAttribute('data-fs', fs);
+  } catch (e) {}
+</script>
 <script src="{{ '/assets/js/vocab-tools.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/js/font-size.js' | relative_url }}" defer></script>

@@ -105,3 +105,46 @@
     border-bottom: 1px solid rgba(128, 128, 128, 0.25);
   }
 }
+
+// ---------- Text size (small / normal / large) ----------
+// Just the Docs sizes text in rem, so scaling the root scales everything.
+html[data-fs="small"]  { font-size: 90% !important; }
+html[data-fs="normal"] { font-size: 100% !important; }
+html[data-fs="large"]  { font-size: 118% !important; }
+
+.fs-control {
+  position: fixed;
+  right: 0.75rem;
+  bottom: 0.75rem;
+  z-index: 20;
+  display: flex;
+  align-items: baseline;
+  gap: 2px;
+  padding: 2px 6px;
+  background: #fff;
+  border: 1px solid rgba(128, 128, 128, 0.5);
+  border-radius: 999px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+
+  @media (prefers-color-scheme: dark) {
+    background: #27262b;
+  }
+
+  button {
+    min-width: 40px;
+    min-height: 40px;           // comfortable tap target
+    padding: 0;
+    background: transparent;
+    border: 0;
+    border-radius: 50%;
+    color: inherit;
+    font-family: inherit;
+    font-weight: 700;
+    line-height: 1;
+    cursor: pointer;
+
+    &[aria-pressed="true"] {
+      background: rgba(128, 128, 128, 0.3);
+    }
+  }
+}
