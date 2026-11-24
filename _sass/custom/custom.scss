@@ -1,0 +1,107 @@
+// Vocabulary tables: language toolbar + mobile "card" layout
+// Works in light and dark mode (uses currentColor / translucent greys).
+
+.vocab-hidden {
+  display: none !important;
+}
+
+// ---------- Toolbar ----------
+.vocab-toolbar {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 1rem;
+  margin: 1rem 0;
+  padding: 0.6rem 0.8rem;
+  background: #fff;
+  border: 1px solid rgba(128, 128, 128, 0.4);
+  border-radius: 6px;
+  font-size: 0.85rem;
+
+  @media (prefers-color-scheme: dark) {
+    background: #27262b;
+  }
+}
+
+.vocab-toolbar__title {
+  font-weight: 700;
+}
+
+.vocab-toolbar__option {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  min-height: 2rem;          // comfortable tap target
+  cursor: pointer;
+
+  input {
+    width: 1.1rem;
+    height: 1.1rem;
+  }
+}
+
+// ---------- Mobile: each row becomes a card ----------
+@media (max-width: 600px) {
+  .main-content .table-wrapper {
+    overflow-x: visible;
+    box-shadow: none;
+  }
+
+  table.vocab-table,
+  table.vocab-table tbody,
+  table.vocab-table tr {
+    display: block;
+    width: 100%;
+  }
+
+  table.vocab-table thead {
+    // keep available for screen readers, hide visually
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+  }
+
+  table.vocab-table tr {
+    margin: 0 0 0.6rem;
+    padding: 0.4rem 0.8rem;
+    border: 1px solid rgba(128, 128, 128, 0.35);
+    border-radius: 6px;
+  }
+
+  table.vocab-table td {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    min-width: 0;
+    padding: 0.2rem 0;
+    border: 0;
+    text-align: right;
+    overflow-wrap: anywhere;
+  }
+
+  // small language label on the left of each value
+  table.vocab-table td::before {
+    content: attr(data-label);
+    flex: 0 0 4.5rem;
+    text-align: left;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    opacity: 0.6;
+  }
+
+  // the first visible value acts as the card title
+  table.vocab-table td.vocab-first {
+    font-weight: 700;
+    font-size: 1.05rem;
+    padding-bottom: 0.35rem;
+    margin-bottom: 0.2rem;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+  }
+}
