@@ -18,19 +18,19 @@ permalink: /docs/basics/karate-vocabulary/quick-reference/
 
 ## Quick Reference – 常用课堂流程
 
-| Romaji | 日本語 | 中文 | English |
+| Romaji | English | 日本語 | 中文 |
 |---|---|---|---|
-| Seiretsu | 整列 | 排队 | Line up |
-| Shōmen | 正面 | 面向正前方 | Face the front |
-| Rei | 礼 | 行礼 | Bow |
-| Yōi | 用意 | 准备 | Ready |
-| Hajime | 始め | 开始 | Begin |
-| Yame | 止め | 停止 | Stop |
-| Naore | 直れ | 还原 / 回到原位 | Return |
-| Yasume | 休め | 稍息 | At ease |
-| Mō ichido | もう一度 | 再来一次 | Once more |
-| Onegaishimasu | お願いします | 请多指教 | Please / Let's begin |
-| Arigatō gozaimashita | ありがとうございました | 感谢今天的指导 | Thank you for the training |
+| Seiretsu | Line up | 整列 | 排队 |
+| Shōmen | Face the front | 正面 | 面向正前方 |
+| Rei | Bow | 礼 | 行礼 |
+| Yōi | Ready | 用意 | 准备 |
+| Hajime | Begin | 始め | 开始 |
+| Yame | Stop | 止め | 停止 |
+| Naore | Return | 直れ | 还原 / 回到原位 |
+| Yasume | At ease | 休め | 稍息 |
+| Mō ichido | Once more | もう一度 | 再来一次 |
+| Onegaishimasu | Please / Let's begin | お願いします | 请多指教 |
+| Arigatō gozaimashita | Thank you for the training | ありがとうございました | 感谢今天的指导 |
 
 ## Important Distinctions – 重要术语辨析
 

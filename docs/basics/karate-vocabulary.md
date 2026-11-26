@@ -10,7 +10,7 @@ permalink: /docs/basics/karate-vocabulary/
 # 空手道五语言词汇表（和道流初学者）
 {: .no_toc }
 
-**Column order:** English · Svenska · Romaji · 日本語 · 中文
+**Column order:** Romaji · English · Svenska · 日本語 · 中文
 
 Choose a topic below, or use the menu on the left. On a phone, tap the menu button at the top.
 

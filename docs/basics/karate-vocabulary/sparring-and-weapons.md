@@ -18,34 +18,34 @@ permalink: /docs/basics/karate-vocabulary/sparring-and-weapons/
 
 ## Sparring and Competition – 对练与比赛
 
-| English | Svenska | Romaji | 日本語 | 中文 |
-| --- | --- | --- | --- | --- |
-| One-step sparring | Enstegssparring | Ippon-kumite | 一本組手 | 一步对练 |
-| Three-step sparring | Trestegssparring | Sanbon-kumite | 三本組手 | 三步对练 |
-| Five-step sparring | Femstegssparring | Gohon-kumite | 五本組手 | 五步对练 |
-| Free one-step sparring | Fri enstegssparring | Jiyū-ippon-kumite | 自由一本組手 | 自由一步对练 |
-| Match / competition | Match / tävling | Shiai | 試合 | 比赛 |
-| Red | Röd | Aka | 赤 | 红 |
-| White | Vit | Shiro | 白 | 白 |
-| Full point | Full poäng | Ippon | 一本 | 一本 |
-| Half point | Halv poäng | Waza-ari | 技あり | 技有 |
-| Win | Seger | Kachi | 勝ち | 胜 |
-| Draw | Oavgjort | Hikiwake | 引き分け | 平局 |
-| Judges' decision | Domarbeslut | Hantei | 判定 | 判定 |
-| Not scored | Poängen räknas inte | Torimasen | 取りません | 不取分 |
-| Warning | Varning | Keikoku | 警告 | 警告 |
-| Foul / rule violation | Regelbrott | Hansoku | 反則 | 犯规 |
-| Disqualification | Diskvalificering | Shikkaku | 失格 | 失格 |
-| Out of bounds | Utanför tävlingsytan | Jogai | 場外 | 出界 |
+| Romaji | English | Svenska | 日本語 | 中文 |
+|---|---|---|---|---|
+| Ippon-kumite | One-step sparring | Enstegssparring | 一本組手 | 一步对练 |
+| Sanbon-kumite | Three-step sparring | Trestegssparring | 三本組手 | 三步对练 |
+| Gohon-kumite | Five-step sparring | Femstegssparring | 五本組手 | 五步对练 |
+| Jiyū-ippon-kumite | Free one-step sparring | Fri enstegssparring | 自由一本組手 | 自由一步对练 |
+| Shiai | Match / competition | Match / tävling | 試合 | 比赛 |
+| Aka | Red | Röd | 赤 | 红 |
+| Shiro | White | Vit | 白 | 白 |
+| Ippon | Full point | Full poäng | 一本 | 一本 |
+| Waza-ari | Half point | Halv poäng | 技あり | 技有 |
+| Kachi | Win | Seger | 勝ち | 胜 |
+| Hikiwake | Draw | Oavgjort | 引き分け | 平局 |
+| Hantei | Judges' decision | Domarbeslut | 判定 | 判定 |
+| Torimasen | Not scored | Poängen räknas inte | 取りません | 不取分 |
+| Keikoku | Warning | Varning | 警告 | 警告 |
+| Hansoku | Foul / rule violation | Regelbrott | 反則 | 犯规 |
+| Shikkaku | Disqualification | Diskvalificering | 失格 | 失格 |
+| Jogai | Out of bounds | Utanför tävlingsytan | 場外 | 出界 |
 
 ## Traditional Weapons – 古武道器械
 
-| English | Svenska | Romaji | 日本語 | 中文 |
-| --- | --- | --- | --- | --- |
-| Traditional weapons practice | Traditionell vapenträning | Kobudō | 古武道 | 古武道 |
-| Long staff (about 180 cm) | Lång stav (cirka 180 cm) | Bō | 棒 | 棍 |
-| Short staff | Kort stav | Jō | 杖 | 杖 |
-| Three-pronged metal truncheon | Trebent metallvapen | Sai | 釵 | 钗 |
-| Side-handled baton | Batong med sidohandtag | Tonfa | トンファー | 拐 |
-| Two sticks joined by rope or chain | Två stavar sammanbundna med rep eller kedja | Nunchaku | ヌンチャク | 双节棍 |
+| Romaji | English | Svenska | 日本語 | 中文 |
+|---|---|---|---|---|
+| Kobudō | Traditional weapons practice | Traditionell vapenträning | 古武道 | 古武道 |
+| Bō | Long staff (about 180 cm) | Lång stav (cirka 180 cm) | 棒 | 棍 |
+| Jō | Short staff | Kort stav | 杖 | 杖 |
+| Sai | Three-pronged metal truncheon | Trebent metallvapen | 釵 | 钗 |
+| Tonfa | Side-handled baton | Batong med sidohandtag | トンファー | 拐 |
+| Nunchaku | Two sticks joined by rope or chain | Två stavar sammanbundna med rep eller kedja | ヌンチャク | 双节棍 |
  

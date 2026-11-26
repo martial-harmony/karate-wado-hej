@@ -2,14 +2,14 @@
  * vocab-tools.js
  * Adds a "Show languages" toolbar to the vocabulary tables so readers can
  * pick which columns to see. The choice is remembered between pages/visits.
- * Tables are recognised by their header cells (English, Svenska, Romaji,
+ * Tables are recognised by their header cells (Romaji, English, Svenska,
  * 日本語, 中文), so it works even where the column order differs.
  */
 (function () {
   'use strict';
 
-  var LANGS = ['English', 'Svenska', 'Romaji', '日本語', '中文'];
-  var MOBILE_DEFAULT = ['English', 'Romaji'];
+  var LANGS = ['Romaji', 'English', 'Svenska', '日本語', '中文'];
+  var MOBILE_DEFAULT = ['Romaji', 'English'];
   var KEY = 'vocab-langs-v1';
 
   function isMobile() {

@@ -9,28 +9,29 @@ permalink: /docs/basics/karate-vocabulary/stances/
 # Stances and Movement – 站姿与移动
 {: .no_toc }
 
-| English | Svenska | Romaji | 日本語 | 中文 |
+| Romaji | English | Svenska | 日本語 | 中文 |
 |---|---|---|---|---|
-| Natural stance | Naturlig ställning | Shizentai | 自然体 | 自然站姿 |
-| Ready stance | Grundställning / Redo | Yōi | 用意 | 准备姿势 |
-| Front stance | Framåtriktad ställning | Zenkutsu-dachi | 前屈立ち | 前屈立 |
-| Back stance | Bakåtriktad ställning | Kokutsu-dachi | 後屈立ち | 后屈立 |
-| Horse stance | Hästställning | Kiba-dachi | 騎馬立ち | 骑马立 |
-| Parallel stance | Parallell ställning | Heikō-dachi | 平行立ち | 平行立 |
-| Feet together | Fötterna ihop | Musubi-dachi | 結び立ち | 结立 |
-| Walking stance | Gångställning | Ayumi-dachi | 歩み立ち | 行走步型 |
-| Move forward | Gå framåt | Mae e | 前へ | 向前 |
-| Move backward | Gå bakåt | Ushiro e | 後ろへ | 向后 |
-| Turn | Vänd | Mawatte | 回って | 转身 |
-| Step | Steg | Ashi-sabaki | 足捌き | 步法 |
-| Footwork | Fotarbete | Unsoku | 運足 | 步法 / 移动 |
-| Pivot | Vrid på foten | Kaiten | 回転 | 转动 |
-| Shift body | Flytta kroppen | Tai-sabaki | 体捌き | 身体移动 / 闪避 |
-| Natural stance, feet shoulder-width, toes slightly out | Naturlig ställning, fötter axelbrett, tårna lätt utåt | Hachiji-dachi | 八字立ち | 八字立 |
-| Natural stance, heels and toes together | Naturlig ställning, fötterna ihop | Heisoku-dachi | 閉足立ち | 闭足立 |
-| Cat stance | Kattställning | Neko-ashi-dachi | 猫足立ち | 猫足立 |
-| Immovable stance | Orörlig ställning | Fudō-dachi | 不動立ち | 不动立 |
-| T-shaped stance | T-ställning | Teiji-dachi | 丁字立ち | 丁字立 |
-| Crossed-leg stance | Korsad benställning | Kōsa-dachi | 交差立ち | 交叉立 |
-| Half-moon stance | Halvmånsställning | Hangetsu-dachi | 半月立ち | 半月立 |
-| Crane stance (one-leg) | Tranställning (ett ben) | Tsuru-ashi-dachi | 鶴足立ち | 鹤足立 |
+| Shizentai | Natural stance | Naturlig ställning | 自然体 | 自然站姿 |
+| Yōi | Ready stance | Grundställning / Redo | 用意 | 准备姿势 |
+| Zenkutsu-dachi | Front stance | Framåtriktad ställning | 前屈立ち | 前屈立 |
+| Kokutsu-dachi | Back stance | Bakåtriktad ställning | 後屈立ち | 后屈立 |
+| Kiba-dachi | Horse stance | Hästställning | 騎馬立ち | 骑马立 |
+| Heikō-dachi | Parallel stance | Parallell ställning | 平行立ち | 平行立 |
+| Musubi-dachi | Feet together | Fötterna ihop | 結び立ち | 结立 |
+| Ayumi-dachi | Walking stance | Gångställning | 歩み立ち | 行走步型 |
+| Mae e | Move forward | Gå framåt | 前へ | 向前 |
+| Ushiro e | Move backward | Gå bakåt | 後ろへ | 向后 |
+| Mawatte | Turn | Vänd | 回って | 转身 |
+| Ashi-sabaki | Step | Steg | 足捌き | 步法 |
+| Unsoku | Footwork | Fotarbete | 運足 | 步法 / 移动 |
+| Kaiten | Pivot | Vrid på foten | 回転 | 转动 |
+| Tai-sabaki | Shift body | Flytta kroppen | 体捌き | 身体移动 / 闪避 |
+| Hachiji-dachi | Natural stance, feet shoulder-width, toes slightly out | Naturlig ställning, fötter axelbrett, tårna lätt utåt | 八字立ち | 八字立 |
+| Heisoku-dachi | Natural stance, heels and toes together | Naturlig ställning, fötterna ihop | 閉足立ち | 闭足立 |
+| Neko-ashi-dachi | Cat stance | Kattställning | 猫足立ち | 猫足立 |
+| Fudō-dachi | Immovable stance | Orörlig ställning | 不動立ち | 不动立 |
+| Teiji-dachi | T-shaped stance | T-ställning | 丁字立ち | 丁字立 |
+| Kōsa-dachi | Crossed-leg stance | Korsad benställning | 交差立ち | 交叉立 |
+| Hangetsu-dachi | Half-moon stance | Halvmånsställning | 半月立ち | 半月立 |
+| Tsuru-ashi-dachi | Crane stance (one-leg) | Tranställning (ett ben) | 鶴足立ち | 鹤足立 |
+ 
