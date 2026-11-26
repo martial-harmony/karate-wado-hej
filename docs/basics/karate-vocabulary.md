@@ -26,9 +26,11 @@ Choose a topic below, or use the menu on the left. On a phone, tap the menu butt
    Hand strikes, blocks and defence, and kicking techniques.
 6. [Wadō-ryū, Kata and Mindset – 和道流、型与心法]({{ '/docs/basics/karate-vocabulary/wado-and-kata/' | relative_url }})  
    Wadō-ryū terms, kata practice and application, principles and philosophy.
-7. [Sparring, Competition and Weapons – 对练、比赛与器械]({{ '/docs/basics/karate-vocabulary/sparring-and-weapons/' | relative_url }})  
+7. [Wadō-ryū Kata List – 和道流型一览]({{ '/docs/basics/karate-vocabulary/kata/' | relative_url }})  
+   The 15 Wadō-ryū kata with name meanings in five languages.
+8. [Sparring, Competition and Weapons – 对练、比赛与器械]({{ '/docs/basics/karate-vocabulary/sparring-and-weapons/' | relative_url }})  
    Kumite types, competition terms and traditional weapons.
-8. [Quick Reference and Distinctions – 速查与术语辨析]({{ '/docs/basics/karate-vocabulary/quick-reference/' | relative_url }})  
+9. [Quick Reference and Distinctions – 速查与术语辨析]({{ '/docs/basics/karate-vocabulary/quick-reference/' | relative_url }})  
    A one-table class cheat sheet, commonly confused terms and pronunciation changes.
 
 ## Notes – 使用说明
@@ -38,3 +40,4 @@ Choose a topic below, or use the menu on the left. On a phone, tap the menu butt
 - Some terms have slightly different meanings depending on the technique or context.
 - Follow your Wadō-ryū instructor's preferred terminology and pronunciation.
 - For beginners, focus first on dojo commands, directions, stances, basic punches, blocks and kicks.
+ 

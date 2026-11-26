@@ -2,7 +2,7 @@
 title: Sparring, Competition and Weapons
 parent: Fundamental Terms
 grand_parent: Fundamentals
-nav_order: 7
+nav_order: 8
 permalink: /docs/basics/karate-vocabulary/sparring-and-weapons/
 ---
 
@@ -48,3 +48,4 @@ permalink: /docs/basics/karate-vocabulary/sparring-and-weapons/
 | Three-pronged metal truncheon | Trebent metallvapen | Sai | 釵 | 钗 |
 | Side-handled baton | Batong med sidohandtag | Tonfa | トンファー | 拐 |
 | Two sticks joined by rope or chain | Två stavar sammanbundna med rep eller kedja | Nunchaku | ヌンチャク | 双节棍 |
+ 

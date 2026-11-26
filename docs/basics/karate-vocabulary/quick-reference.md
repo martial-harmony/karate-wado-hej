@@ -2,7 +2,7 @@
 title: Quick Reference and Distinctions
 parent: Fundamental Terms
 grand_parent: Fundamentals
-nav_order: 8
+nav_order: 9
 permalink: /docs/basics/karate-vocabulary/quick-reference/
 ---
 
@@ -67,3 +67,4 @@ Japanese karate terminology often combines words. When words are combined, pronu
 | Tachi (立ち) | Zenkutsu-dachi (前屈立ち) | Tachi becomes Dachi. |
 
 **Tip for beginners:** Learn the terms together with the actual movements. In karate, the same word can have a slightly different practical meaning depending on the technique and the instructor's explanation.
+ 
